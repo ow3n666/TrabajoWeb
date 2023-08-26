@@ -1,0 +1,38 @@
+header{
+    width: 1300pt;
+    height: 250pt;
+    background-color: brown;   
+}
+img{
+    width: 250pt;
+    height: 250pt;
+    border-radius: 360pt;
+}
+p{
+    color: brown;
+}
+
+.fotoestudiante1{
+    width: 150px;
+    height: 150px;
+    border-radius: 350px;
+}
+
+.datospersonales{
+    width: 450px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.encabezado{
+display: flex;
+
+
+}
+
+.logotipo{
+    width: 150pt;
+    height: 150pt;
+}
